@@ -1,3 +1,5 @@
+# Gabriel Monge, idk about licencing tho
+
 import turtle
 import time
 import keyboard
