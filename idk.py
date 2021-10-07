@@ -6,7 +6,7 @@ import keyboard
 import winsound
 
 wn = turtle.Screen()
-wn.title("idk just play fam")
+wn.title("idk just play lol")
 wn.bgpic('BG.gif')
 wn.setup(width=801, height=600)
 wn.tracer(0)
